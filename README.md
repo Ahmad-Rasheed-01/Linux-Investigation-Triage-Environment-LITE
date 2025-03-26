@@ -1,1 +1,1 @@
-# Linux-Investigation-Triage-Environment-LITE-
+# Linux-Investigation-Triage-Environment-LITE
